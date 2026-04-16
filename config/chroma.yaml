@@ -1,0 +1,11 @@
+vectorstore_name: rag
+vectorstore_path: chroma_db
+vectorstore_embedding_function: None
+
+md5_file: md5.txt
+
+splitter: ["\n", "\n\n", ",", ".","!", "?",";","：","，","。","！"]
+chunk_size: 200
+chunk_overlap: 20
+
+file_path: data/

@@ -1,0 +1,51 @@
+2026-04-16 14:41:25 - zhisaotong - ERROR - 文件不存在: C:\workspacegent\zhisaotong\prompts\main_prompt.txt
+2026-04-16 16:33:58 - zhisaotong - INFO - 扫描到6个文档
+2026-04-16 16:33:58 - zhisaotong - INFO - md5文件不存在,创建新文件
+2026-04-16 16:33:59 - zhisaotong - INFO - 开始分割文档: c:\workspace\agent\zhisaotong\data/扫地机器人100问.pdf
+2026-04-16 16:33:59 - zhisaotong - INFO - 文档分割完成,共8个文本块
+2026-04-16 16:34:03 - zhisaotong - INFO - 文档已添加到向量数据库
+2026-04-16 16:34:03 - zhisaotong - INFO - 文档c:\workspace\agent\zhisaotong\data/扫地机器人100问.pdf保存成功
+2026-04-16 16:34:03 - zhisaotong - INFO - 开始分割文档: c:\workspace\agent\zhisaotong\data/扫地机器人100问2.txt
+2026-04-16 16:34:03 - zhisaotong - INFO - 文档分割完成,共8个文本块
+2026-04-16 16:34:07 - zhisaotong - INFO - 文档已添加到向量数据库
+2026-04-16 16:34:07 - zhisaotong - INFO - 文档c:\workspace\agent\zhisaotong\data/扫地机器人100问2.txt保存成功
+2026-04-16 16:34:07 - zhisaotong - INFO - 开始分割文档: c:\workspace\agent\zhisaotong\data/扫拖一体机器人100问.txt
+2026-04-16 16:34:07 - zhisaotong - INFO - 文档分割完成,共9个文本块
+2026-04-16 16:34:13 - zhisaotong - INFO - 文档已添加到向量数据库
+2026-04-16 16:34:13 - zhisaotong - INFO - 文档c:\workspace\agent\zhisaotong\data/扫拖一体机器人100问.txt保存成功
+2026-04-16 16:34:13 - zhisaotong - INFO - 开始分割文档: c:\workspace\agent\zhisaotong\data/故障排除.txt
+2026-04-16 16:34:13 - zhisaotong - INFO - 文档分割完成,共17个文本块
+2026-04-16 16:34:22 - zhisaotong - INFO - 文档已添加到向量数据库
+2026-04-16 16:34:22 - zhisaotong - INFO - 文档c:\workspace\agent\zhisaotong\data/故障排除.txt保存成功
+2026-04-16 16:34:22 - zhisaotong - INFO - 开始分割文档: c:\workspace\agent\zhisaotong\data/维护保养.txt
+2026-04-16 16:34:22 - zhisaotong - INFO - 文档分割完成,共10个文本块
+2026-04-16 16:34:27 - zhisaotong - INFO - 文档已添加到向量数据库
+2026-04-16 16:34:27 - zhisaotong - INFO - 文档c:\workspace\agent\zhisaotong\data/维护保养.txt保存成功
+2026-04-16 16:34:27 - zhisaotong - INFO - 开始分割文档: c:\workspace\agent\zhisaotong\data/选购指南.txt
+2026-04-16 16:34:27 - zhisaotong - INFO - 文档分割完成,共10个文本块
+2026-04-16 16:35:32 - zhisaotong - INFO - 扫描到6个文档
+2026-04-16 16:35:32 - zhisaotong - INFO - md5文件不存在,创建新文件
+2026-04-16 16:35:32 - zhisaotong - INFO - 开始分割文档: c:\workspace\agent\zhisaotong\data/扫地机器人100问.pdf
+2026-04-16 16:35:32 - zhisaotong - INFO - 文档分割完成,共33个文本块
+2026-04-16 16:35:48 - zhisaotong - INFO - 文档已添加到向量数据库
+2026-04-16 16:35:48 - zhisaotong - INFO - 文档c:\workspace\agent\zhisaotong\data/扫地机器人100问.pdf保存成功
+2026-04-16 16:35:48 - zhisaotong - INFO - 开始分割文档: c:\workspace\agent\zhisaotong\data/扫地机器人100问2.txt
+2026-04-16 16:35:48 - zhisaotong - INFO - 文档分割完成,共39个文本块
+2026-04-16 16:36:07 - zhisaotong - INFO - 文档已添加到向量数据库
+2026-04-16 16:36:07 - zhisaotong - INFO - 文档c:\workspace\agent\zhisaotong\data/扫地机器人100问2.txt保存成功
+2026-04-16 16:36:07 - zhisaotong - INFO - 开始分割文档: c:\workspace\agent\zhisaotong\data/扫拖一体机器人100问.txt
+2026-04-16 16:36:07 - zhisaotong - INFO - 文档分割完成,共47个文本块
+2026-04-16 16:36:30 - zhisaotong - INFO - 文档已添加到向量数据库
+2026-04-16 16:36:30 - zhisaotong - INFO - 文档c:\workspace\agent\zhisaotong\data/扫拖一体机器人100问.txt保存成功
+2026-04-16 16:36:30 - zhisaotong - INFO - 开始分割文档: c:\workspace\agent\zhisaotong\data/故障排除.txt
+2026-04-16 16:36:30 - zhisaotong - INFO - 文档分割完成,共100个文本块
+2026-04-16 16:37:18 - zhisaotong - INFO - 文档已添加到向量数据库
+2026-04-16 16:37:18 - zhisaotong - INFO - 文档c:\workspace\agent\zhisaotong\data/故障排除.txt保存成功
+2026-04-16 16:37:18 - zhisaotong - INFO - 开始分割文档: c:\workspace\agent\zhisaotong\data/维护保养.txt
+2026-04-16 16:37:18 - zhisaotong - INFO - 文档分割完成,共51个文本块
+2026-04-16 16:37:42 - zhisaotong - INFO - 文档已添加到向量数据库
+2026-04-16 16:37:42 - zhisaotong - INFO - 文档c:\workspace\agent\zhisaotong\data/维护保养.txt保存成功
+2026-04-16 16:37:42 - zhisaotong - INFO - 开始分割文档: c:\workspace\agent\zhisaotong\data/选购指南.txt
+2026-04-16 16:37:42 - zhisaotong - INFO - 文档分割完成,共48个文本块
+2026-04-16 16:38:05 - zhisaotong - INFO - 文档已添加到向量数据库
+2026-04-16 16:38:05 - zhisaotong - INFO - 文档c:\workspace\agent\zhisaotong\data/选购指南.txt保存成功

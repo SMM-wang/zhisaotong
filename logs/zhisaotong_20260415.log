@@ -1,0 +1,6 @@
+2026-04-15 14:51:13 - zhisaotong - INFO - 这是一条info日志
+2026-04-15 14:51:13 - zhisaotong - INFO - 这是一条info日志
+2026-04-15 14:51:34 - zhisaotong - INFO - 这是一条info日志
+2026-04-15 14:51:34 - zhisaotong - ERROR - 这是一条error日志
+2026-04-15 14:51:34 - zhisaotong - WARNING - 这是一条warning日志
+2026-04-15 14:51:34 - zhisaotong - CRITICAL - 这是一条critical日志
