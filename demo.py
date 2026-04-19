@@ -4,7 +4,8 @@ from utils.file_hander import read_pdf, read_txt, get_file_md5
 from utils.config_loder import load_rag_config
 from rag.vector_service import VectorService
 from rag.rag import rag_query
-
+from agent.tools import fetch_external_data, get_external_data
+from agent.agent import Agent
 
 
 if __name__ == "__main__":
@@ -22,5 +23,13 @@ if __name__ == "__main__":
     # print(md5)
     # vector_service = VectorService()
     # vector_service.add_documents()
-    result = rag_query("扫地机器人如何清洁？")
-    print(result)
+    # result = rag_query("扫地机器人如何清洁？")
+    # print(result)
+    # result = fetch_external_data("1001", "2025-01")
+    # # result = get_external_data()
+    # print(result)
+    agent = Agent()
+    config = {"configurable": {"thread_id": "session_001"}}
+    response = agent.invoke("26摄氏度，该怎么保养", config)
+    print(response["messages"][-1].content)
+

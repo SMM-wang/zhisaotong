@@ -27,7 +27,7 @@ def create_rag_chain():
 
     chain = (
         {"context": retriever | format_docs, "input": RunnablePassthrough()}
-        | prompt | p_pro
+        | prompt
         | llm
         | StrOutputParser()
     )
